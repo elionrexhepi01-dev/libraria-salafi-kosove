@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <style>
+    :root {
+      --bg: #1a1a1c;        /* Muted dark gray to completely protect from glare */
+      --text-main: #d4d4d8; /* Soft white for comfortable contrast reading */
+      --text-muted: #71717a;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: 'Montserrat', -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      line-height: 1.8;      
+      padding: 6rem 2rem;
+    }
+
+    .container {
+      max-width: 65ch;       
+      margin: 0 auto;
+    }
+
+    /* Top Return Link Custom Styling */
+    header {
+      margin-bottom: 4rem;
+      text-align: center;
+    }
+
+    .back-link {
+      color: var(--text-muted);
+      text-decoration: none !important;
+      font-size: 0.9rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      transition: color 0.2s ease;
+    }
+
+    .back-link:hover {
+      color: #ffffff;
+    }
+
+    /* Book Text Layout (Centered Headers, Justified Blocks) */
+    main h1 {
+      font-size: 2.25rem;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      line-height: 1.3;
+      margin-bottom: 3rem;
+      text-align: center;   
+      color: #ffffff;
+    }
+
+    main h2 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin: 3.5rem 0 1.25rem 0;
+      letter-spacing: -0.01em;
+      text-align: center;   
+    }
+
+main p {
+      font-size: 1.125rem;
+      margin-bottom: 1.75rem;
+      color: var(--text-main);
+      
+      /* The Fixed Justification Engine */
+      text-align: justify;  
+      text-justify: inter-word;
+      
+      /* Automatically breaks words on mobile to kill large gaps */
+      -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+      hyphens: auto;
+      word-break: break-word;
+    }
+
+    /* Responsive Mobile Screen Optimization */
+    @media (max-width: 600px) {
+      main p {
+        font-size: 1.05rem; /* Marginally drops font size to fit more words per line */
+        line-height: 1.7;   /* Comfortably tightens line spacing for small devices */
+        text-align: left;   /* OPTIONAL FALLBACK: Removes justification entirely on tiny screens if preferred */
+      }
+    }
+
+    /* Premium Hover Animation Engine for Homepage */
+    .shelf-book {
+      display: inline-block;
+      color: var(--text-main);
+      text-decoration: none !important;
+      font-size: 1.4rem;
+      font-weight: 500;
+      padding: 0.6rem 0;
+      border: none !important;
+      outline: none;
+      transform: translateY(0);
+      transition: color 0.25s ease, transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+    }
+
+    /* Smooth lift and glow transition on hover */
+    .shelf-book:hover {
+      color: #ffffff;
+      transform: translateY(-2px); /* Snappy, elegant upward glide */
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      {% if page.url != "/" %}
+        <a href="/" class="back-link">← Return to Library</a>
+      {% endif %}
+    </header>
+    
+   <main>
+      {# Only display the main header title if eleventyNoTitle is not set #}
+      {% if not eleventyNoTitle %}
+        <h1>{{ title }}</h1>
+      {% endif %}
+      
+      {{ content | safe }}
+    </main>
+  </div>
+
+  <script src="//instant.page/5.2.0" type="module"></script>
+</body>
+</html>
