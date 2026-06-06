@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "KARAKTERISTIKAT E KOHËS SË INJORANCËS"
+title: "TIPARET E KOHËS SË INJORANCËS"
 tags: books
 ---
 
