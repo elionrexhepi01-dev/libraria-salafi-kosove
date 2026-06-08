@@ -4,7 +4,7 @@ title: "INKURAJIMI PËR TË MOS SHIKUAR DREJT ATYRE QË JANË MBI JU"
 tags: books
 ---
 
-## Shejh Abdur-Razzak Ibn Abdul-Muhsin el-Abbad el-Bedr
+## Shejh Muhamed bin Hadi el-Medhkhali
 
 ## VËREJTJE:<br>Ky punim është përkthyer me ndihmën e Inteligjencës Artificiale dhe mund të përmbajë gabime. <br><br>Nëse gjeni ndonjë pasaktësi ose gabim, ju lutem njoftomëni përmes Instagramit: @salafi_kosove <br><br>
 
