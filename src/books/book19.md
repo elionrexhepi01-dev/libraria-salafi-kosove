@@ -8,11 +8,11 @@ tags: books
 
 ## VËREJTJE:<br>Ky punim është përkthyer me ndihmën e Inteligjencës Artificiale dhe mund të përmbajë gabime. <br><br>Nëse gjeni ndonjë pasaktësi ose gabim, ju lutem njoftomëni përmes Instagramit: @salafi_kosove <br><br>
 
-Në emër të Allahut, i Gjithëmëshirshmi, Mëshirëploti.
+Në emër të Allahut, të Gjithëmëshirshmit, Mëshirëplotit.
 
-“Lexo, me emrin e Zotit tënd i Cili krijoi (të gjithë që ekziston). Ai e krijoi njeriun nga një mpiksje (copë gjaku të trashë të mpiksur). Lexo! Dhe Zoti juaj është më Bujari. Kush ka mësohet (shkrimi) me stilolaps. Ai I mësoi njeriut atë që ai nuk e dinte.” (96:15)
+“Lexo! Në emrin e Zotit tënd, i Cili krijoi. E krijoi njeriun nga një droçkë gjaku e mpiksur. Lexo! Dhe Zoti yt është Më Bujari. Ai që mësoi me anë të pendës. E mësoi njeriun atë që nuk e dinte.” (96:1-5)
 
-“Vërtet feja tek Allahu është Islami. Atyre që u është dhënë Shkrimi (Hebrenjtë dhe të krishterët) nuk u dalluan veçse nga xhelozi e ndërsjellë, pasi kishte ardhur dija ndaj tyre. Dhe kushdo që mohon Ajetet (provat, dëshmitë, ajetet, shenjat, shpalljet, etj.) e Allahut, atëherë me të vërtetë, Allahu është i shpejtë në marrjen në llogari.” ~ (8:19)
+“Vërtet, feja tek Allahu është Islami. Ata që u është dhënë Libri (hebrenjtë dhe të krishterët) nuk u përçanë veçse pasi u erdhi dija, nga zilia dhe rivaliteti mes tyre. E kush i mohon argumentet, shenjat dhe shpalljet e Allahut, le ta dijë se Allahu është i Shpejtë në marrjen në llogari.” (3:19)
 
 ## MËSIMI: NJË
 
