@@ -349,7 +349,7 @@ Allahu i përshkroi ata që kryejnë marrëdhënie seksuale të paligjshme si:
 “Zinaxhiu nuk martohet veçse me një zinaxhije ose me një idhujtare, dhe zinaxhija nuk martohet veçse me një zinaxhi ose me një idhujtar.”
 (Sure En-Nur: 3)
 
-Tërhiqe vërejtjen, o rob i Allahut, sepse kjo vepër e turpshme dhe e keqe e kurvërisë është ndër mëkatet më shkatërruese; për shkak të saj janë përhapur shumë sëmundje, si SIDA, për të cilat deri më sot nuk janë gjetur shërime.
+Tërhiqe vërejtjen, o rob i Allahut, sepse kjo vepër e turpshme dhe e keqe e zinasë është ndër mëkatet më shkatërruese; për shkak të saj janë përhapur shumë sëmundje, si SIDA, për të cilat deri më sot nuk janë gjetur shërime.
 
 ## CILËSIA E DHJETË
 

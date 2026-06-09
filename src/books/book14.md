@@ -495,7 +495,7 @@ Nëse dikush bën një mëkat, një njollë e zezë vendoset në zemrën e tij; 
 
 Grumbulloni vepra të mira dhe nxitoni drejt pendimit, përkushtimit dhe kërkimit të faljes. Mos u ndjeni të qetë me mëkatet dhe mos prisni derisa zemra të prishet.
 
-Njerëzit janë në gjendje të ndryshme në lidhje me mëkatin. Njeriu mund ta lejojë veten në të derisa të bjerë në diçka të madhe. Për këtë arsye është e ndaluar shikimi (i haramit), për shembull, sepse shikimi çon në mëkat të madh, siç është kurvëria. Mëkatet e mëdha ndodhin vetëm përmes veprimeve paraprake, si shikimi dhe veçimi (me një person jomahram të seksit të kundërt), derisa njeriu bie në mëkat të madh. Kërkojmë mbrojtje tek Allahu i Lartësuar. Ai (paqja dhe bekimet e Allahut qofshin mbi të) tha:
+Njerëzit janë në gjendje të ndryshme në lidhje me mëkatin. Njeriu mund ta lejojë veten në të derisa të bjerë në diçka të madhe. Për këtë arsye është e ndaluar shikimi (i haramit), për shembull, sepse shikimi çon në mëkat të madh, siç është zinaja. Mëkatet e mëdha ndodhin vetëm përmes veprimeve paraprake, si shikimi dhe veçimi (me një person jomahram të seksit të kundërt), derisa njeriu bie në mëkat të madh. Kërkojmë mbrojtje tek Allahu i Lartësuar. Ai (paqja dhe bekimet e Allahut qofshin mbi të) tha:
 
 “Mos e paso një shikim me një tjetër; i pari është për ty, por i dyti nuk është për ty.”
 

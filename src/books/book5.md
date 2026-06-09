@@ -18,7 +18,7 @@ Kur Allahu i Lartësuar dërgoi Muhamedin (paqja dhe bekimet e Allahut qofshin m
 
 Kuptimi i “paralajmëro” është të paralajmërosh kundër shirkut ndaj Allahut të Lartësuar. Mushrikët e kishin bërë shirkun pjesë të fesë së tyre me të cilën kërkonin t’i afroheshin Allahut të Lartësuar. Ata gjithashtu kryenin me vetëdije një numër të madh veprash dhe gabimesh të turpshme.
 
-Kur dikush e kupton plotësisht këtë dhe pastaj kupton se Allahu i Lartësuar e urdhëroi të paralajmëronte kundër fesë së tyre me të cilën ata kërkonin t’i afroheshin Allahut, para paralajmërimit kundër kurvërisë dhe marrëdhënieve incestuoze, dhe kur e kupton formën e vërtetë të shirkut që ata bënin, atëherë dalin në dritë gjëra të habitshme. Ai do të kuptojë se shirku që bëjnë shumë njerëz sot është më i keq se ai që ata praktikonin.
+Kur dikush e kupton plotësisht këtë dhe pastaj kupton se Allahu i Lartësuar e urdhëroi të paralajmëronte kundër fesë së tyre me të cilën ata kërkonin t’i afroheshin Allahut, para paralajmërimit kundër zinasë dhe marrëdhënieve incestuoze, dhe kur e kupton formën e vërtetë të shirkut që ata bënin, atëherë dalin në dritë gjëra të habitshme. Ai do të kuptojë se shirku që bëjnë shumë njerëz sot është më i keq se ai që ata praktikonin.
 
 Allahu i Lartësuar thotë:
 
