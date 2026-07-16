@@ -2,6 +2,7 @@
 layout: base.njk
 title: "PESË MAKSIMAT"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh Muhamed ibn Abdul-Uehab

@@ -2,6 +2,7 @@
 layout: base.njk
 title: "15 CILËSITË E ROBËRVE TË MËSHIRUESIT"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh Dr. Salih ibn Sa’d Es-Suhaimi

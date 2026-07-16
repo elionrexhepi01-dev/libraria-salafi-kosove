@@ -19,6 +19,9 @@ eleventyNoTitle: true
   {%- for book in collections.books -%}
     <a href="{{ book.url }}" class="shelf-book" style="text-align: center; width: 100%; display: block; margin: 0; padding: 0;">
       {{ book.data.title }}
+      {% if book.date | isRecent %}
+        <span class="recently-added">(recently added)</span>
+      {% endif %}
     </a>
   {%- endfor -%}
 </div>

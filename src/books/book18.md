@@ -2,6 +2,7 @@
 layout: base.njk
 title: "METODOLOGJIA E SEKTIT TË SHPËTUAR"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh Muhamed bin Xhemil Zejnu

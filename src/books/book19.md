@@ -2,6 +2,7 @@
 layout: base.njk
 title: "MËSIME THELBËSORE PËR ÇDO MUSLIMAN"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh AbdulAziz bin ‘Abdullah bin Baz

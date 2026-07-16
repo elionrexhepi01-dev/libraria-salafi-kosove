@@ -2,6 +2,7 @@
 layout: base.njk
 title: "8 HAPA DREJT LUMTURISË"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh Ebu Abdurrahman Nasir es-Sa‘di

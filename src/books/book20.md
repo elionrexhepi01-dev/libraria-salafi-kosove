@@ -2,6 +2,7 @@
 layout: base.njk
 title: "SQARIMI I GABIMEVE TË ZAKONSHME TË PËRHAPURA GJERËSISHT MIDIS MUSLIMANËVE"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh Salih Al esh-Shejh

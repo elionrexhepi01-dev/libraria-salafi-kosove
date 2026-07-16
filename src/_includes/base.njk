@@ -99,11 +99,36 @@ main p {
       color: #ffffff;
       transform: translateY(-2px); /* Snappy, elegant upward glide */
     }
+
+    /* Premium Fade-In Animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px); /* Gentle upward shift */
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-entry {
+  animation: fadeInUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.recently-added {
+  color: #10b981; /* A soft, premium green color */
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin-left: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
   </style>
 </head>
 <body>
 
-  <div class="container">
+  <div class="container fade-in-entry">
    <main>
       {# Only display the main header title if eleventyNoTitle is not set #}
       {% if not eleventyNoTitle %}

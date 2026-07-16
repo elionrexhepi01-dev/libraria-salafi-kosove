@@ -2,6 +2,7 @@
 layout: base.njk
 title: "KËSHILLAT E EBU ED-DERDASË"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh Shejh Salih ibn Abdulaziz Ali Shejh

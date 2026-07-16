@@ -2,6 +2,7 @@
 layout: base.njk
 title: "DHJETË GJËRAT QË E SHKELIN ISLAMIN"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh Muhamed ibn Abdul-Uehab

@@ -2,6 +2,7 @@
 layout: base.njk
 title: "THESAR NGA THESARET E XHENETIT"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh Abdur-Razzak Ibn Abdul-Muhsin el-Abbad el-Bedr

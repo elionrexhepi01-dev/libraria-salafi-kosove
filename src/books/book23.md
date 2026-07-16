@@ -2,6 +2,7 @@
 layout: base.njk
 title: "VIRTYTET E LUTJES DHE PËRKUJTIMIT TË VAZHDUESHËM TË ALLAHUT"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh Salih El-Fawzan

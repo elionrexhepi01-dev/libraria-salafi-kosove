@@ -2,6 +2,7 @@
 layout: base.njk
 title: "INKURAJIMI PËR TË MOS SHIKUAR DREJT ATYRE QË JANË MBI JU"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh Muhamed bin Hadi el-Medhkhali

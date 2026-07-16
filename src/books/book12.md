@@ -2,6 +2,7 @@
 layout: base.njk
 title: "DUAJA QË NUK REFUZOHET"
 tags: books
+date: 2026-01-01
 ---
 
 ## Shejh Abdur-Razzak Ibn Abdul-Muhsin el-Abbad el-Bedr
