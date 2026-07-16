@@ -15,13 +15,13 @@ eleventyNoTitle: true
 </div>
 
 <!-- Strict Centered Stack with Generous Vertical Breathing Room -->
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; max-width: 80ch; margin: 0 auto; gap: 2.5rem;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; max-width: 80ch; margin: 0 auto; gap: 3rem;">
   {%- for book in collections.books -%}
-    <a href="{{ book.url }}" class="shelf-book" style="text-align: center; width: 100%; display: block; margin: 0; padding: 0;">
-      {{ book.data.title }}
-      {% if book.date | isRecent %}
-        <span class="recently-added">(recently added)</span>
-      {% endif %}
+    <a href="{{ book.url }}" class="shelf-book" style="display: inline-flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center; gap: 0.8rem; width: auto; max-width: 100%; margin: 0; padding: 0;">
+      {{- book.data.title -}}
+      {%- if book.date | isRecent -%}
+        <span class="recently-added" style="margin: 0; white-space: nowrap;">(recently added)</span>
+      {%- endif -%}
     </a>
   {%- endfor -%}
 </div>
