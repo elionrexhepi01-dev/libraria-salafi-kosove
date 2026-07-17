@@ -11,7 +11,7 @@ eleventyNoTitle: true
   </h1>
   <p style="text-align: center; font-size: 1rem; color: var(--text-muted); letter-spacing: 0.05em; text-transform: uppercase; margin: 0;">
     <br>Koleksion librash autentikë sipas kuptimit të Selefëve<br> Instagram: @salafi_kosove
-    <br><br><br><br>Lexo më poshtë 
+    <br><br><br>Lexo më poshtë 
   </p>
 
   <!-- Continuous Soft-Flashing Indicator -->
