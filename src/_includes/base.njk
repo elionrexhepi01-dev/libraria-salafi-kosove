@@ -3,7 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title }}</title>
+
+  <title>{% if title %}{{ title }} {% endif %}</title>
+  <meta name="application-name" content="Libraria Salafi Kosovë">
+
+  <meta name="description" content="Koleksion librash autentikë sipas kuptimit të Selefëve të Devotshëm. Lexo dhe studio përmbledhje librash në gjuhën shqipe.">
+
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -124,6 +130,32 @@ main p {
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
+
+/* Premium Indicator Pulse Animation */
+@keyframes softPulse {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.scroll-indicator {
+  /* This animates the entire phrase continuously over 2 seconds */
+  animation: softPulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+html.lenis {
+  height: auto;
+}
+
+.lenis-scrolling iframe {
+  pointer-events: none;
+}
   </style>
 </head>
 <body>
@@ -140,5 +172,29 @@ main p {
   </div>
 
   <script src="//instant.page/5.2.0" type="module"></script>
+<!-- Include Lenis Smooth Scroll via CDN -->
+<script src="https://unpkg.com/@studio-freight/lenis@1.0.36/dist/lenis.min.js"></script>
+
+<script>
+  // Initialize the smooth scroll engine
+  const lenis = new Lenis({
+    duration: 1.2,           // How long the scroll momentum lasts (in seconds)
+    easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)), // Premium easing curve
+    orientation: 'vertical',
+    gestureOrientation: 'vertical',
+    smoothWheel: true,
+    wheelMultiplier: 1,      // Speed multiplier
+    touchMultiplier: 2,
+    infinite: false,
+  });
+
+  // Keep the animation frame looping smoothly
+  function raf(time) {
+    lenis.raf(time);
+    requestAnimationFrame(raf);
+  }
+
+  requestAnimationFrame(raf);
+</script>
 </body>
 </html>

@@ -10,8 +10,14 @@ eleventyNoTitle: true
     LIBRARIA SALAFI KOSOVE
   </h1>
   <p style="text-align: center; font-size: 1rem; color: var(--text-muted); letter-spacing: 0.05em; text-transform: uppercase; margin: 0;">
-    Koleksion librash autentikë sipas kuptimit të Selefëve<br> Instagram: @salafi_kosove
+    <br>Koleksion librash autentikë sipas kuptimit të Selefëve<br> Instagram: @salafi_kosove
+    <br><br><br><br>Lexo më poshtë 
   </p>
+
+  <!-- Continuous Soft-Flashing Indicator -->
+  <div class="scroll-indicator" style="font-size: 2.5rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.1em; display: inline-flex; align-items: center; gap: 0.3rem;">
+  <span class="pulsing-arrow">↓</span>
+  </div>
 </div>
 
 <!-- Strict Centered Stack with Generous Vertical Breathing Room -->
@@ -20,7 +26,7 @@ eleventyNoTitle: true
     <a href="{{ book.url }}" class="shelf-book" style="display: inline-flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center; gap: 0.8rem; width: auto; max-width: 100%; margin: 0; padding: 0;">
       {{- book.data.title -}}
       {%- if book.date | isRecent -%}
-        <span class="recently-added" style="margin: 0; white-space: nowrap;">(recently added)</span>
+        <span class="recently-added" style="margin: 0; white-space: nowrap;">(Shtuar së fundmi)</span>
       {%- endif -%}
     </a>
   {%- endfor -%}

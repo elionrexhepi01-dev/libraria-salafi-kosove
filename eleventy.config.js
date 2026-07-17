@@ -17,6 +17,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("google*.html");
 
+  eleventyConfig.addPassthroughCopy("favicon.ico");
+
   return {
     dir: {
       input: "src",
